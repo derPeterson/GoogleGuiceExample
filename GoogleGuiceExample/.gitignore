@@ -1,0 +1,41 @@
+# compiled (binary) files
+*.class
+
+# Other version control systems
+.svn
+
+# Mac OSX specific stuff
+.DS_Store
+
+# Windows specific stuff
+[Th]humbs.db
+[Dd]esktop.ini
+
+# backup files
+*.old
+*.bak
+*.orig
+
+# IntelliJIDEA specific settings
+.idea/
+*.iml
+
+# Eclipse specific settings
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans specific settings
+nbproject/private/
+
+# Various build and distribution directories
+target/
+build/
+dist/
+
+# Java Crash Dumps
+hs_err_pid*.log
+
+# Test output (seems TestNG and Eclipse specific)
+test-output/
